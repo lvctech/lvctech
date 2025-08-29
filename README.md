@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/51/4f/3f/514f3fccb71047d780be491c435a79e1.gif" alt="Coding GIF" width="400"/>
+  <img src="assets/pixel_art.gif" alt="Coding GIF" width="400"/>
 </div>
 
 ---
