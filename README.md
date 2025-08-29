@@ -1,6 +1,10 @@
 # 👩‍💻 Lara V. Cordero Rodríguez
 
-✨ Welcome to my GitHubmProfile! ✨  
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=23&duration=3500&pause=1000&color=FF6FB5&center=true&vCenter=true&multiline=true&width=800&height=100&lines=✨+Hi%2C+I'm+Lara+V.+Cordero+Rodr%C3%ADguez+✨;💻+Front+End+Developer+%7C+Web+Designer+%7C+UX%2FUI+💻;🌸+Creating+impactful+digital+experiences+🌸" alt="Typing SVG" />
+</h1>
+
+✨ Welcome to my GitHub Profile! ✨  
 I’m passionate about technology, software engineering, and design with the purpose of improving accessibility for its users.  
 Always learning, always building! 🚀  
 
@@ -69,13 +73,20 @@ Always learning, always building! 🚀
 ---
 
 ## 📊 Activity
-![Lara's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+
+<img src="https://github-readme-stats.vercel.app/api?username=lvctech&show_icons=true&theme=radical&bg_color=00000000" alt="Lara's GitHub stats" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvctech&layout=compact&theme=radical&bg_color=00000000" alt="Top Languages" width="36.5%"/>
+
+</div>
+
 
 ---
 
 ## 🐍 Contribution Snake
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/lvctech/lvctech/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
