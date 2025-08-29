@@ -1,7 +1,5 @@
-# 👩‍💻 Lara V. Cordero Rodríguez
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=23&duration=3500&pause=1000&color=FF6FB5&center=true&vCenter=true&multiline=true&width=800&height=100&lines=✨+Hi%2C+I'm+Lara+V.+Cordero+Rodr%C3%ADguez+✨;💻+Front+End+Developer+%7C+Web+Designer+%7C+UX%2FUI+💻;🌸+Creating+impactful+digital+experiences+🌸" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=23&duration=3500&pause=1000&color=FF6FB5&center=true&vCenter=true&multiline=true&width=800&height=100&lines=✨+Hi!+I'm+Lara+V.+Cordero+Rodr%C3%ADguez+✨;💻+Front+End+Developer+%7C+Web+Designer+%7C+UX%2FUI+💻;🌸+Creating+impactful+digital+experiences+🌸" alt="Typing SVG" />
 </h1>
 
 ✨ Welcome to my GitHub Profile! ✨  
@@ -85,8 +83,12 @@ Always learning, always building! 🚀
 
 ---
 
-## 🐍 Contribution Snake
-![snake gif](https://github.com/lvctech/lvctech/blob/output/github-contribution-grid-snake.svg)
+ <summary>🐍 My Contribution Snake</summary>
+  <br/>
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/lvctech/lvctech/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  </div>
+</details>
 
 ---
 
