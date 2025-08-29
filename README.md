@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img src="assets/pixel_art.gif" alt="Coding GIF" width="400"/>
+  <img src="assets/pixel_art.gif" alt="Coding GIF" width="400px" height="300px"/>
 </div>
 
 ---
@@ -93,12 +93,11 @@ Always learning, always building! 🚀
 
 ---
 
- <summary>🐍 My Contribution Snake</summary>
+ ## 🐍 My Contribution Snake
   <br/>
   <div align="center">
     <img src="https://raw.githubusercontent.com/lvctech/lvctech/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
   </div>
-</details>
 
 ---
 
