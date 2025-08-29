@@ -1,6 +1,12 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=23&duration=3500&pause=1000&color=FF6FB5&center=true&vCenter=true&multiline=true&width=800&height=100&lines=✨+Hi!+I'm+Lara+V.+Cordero+Rodr%C3%ADguez+✨;💻+Front+End+Developer+%7C+Web+Designer+%7C+UX%2FUI+💻;🌸+Creating+impactful+digital+experiences+🌸" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=23&duration=3500&pause=1000&color=FF6FB5&center=true&vCenter=true&multiline=true&width=800&height=100&lines=✨+Hi!+I'm+Lara+V.+Cordero+Rodr%C3%ADguez+✨;💻+Front+End+Developer+%7C+Web+Designer+%7C+UX%2FUI+💻;🌸+Creating+impactful+digital+experiences+🌸" alt="Typing SVG" />
 </h1>
+
+<div align="center">
+  <img src="https://i.pinimg.com/originals/51/4f/3f/514f3fccb71047d780be491c435a79e1.gif" alt="Coding GIF" width="400"/>
+</div>
+
+---
 
 ✨ Welcome to my GitHub Profile! ✨  
 I’m passionate about technology, software engineering, and design with the purpose of improving accessibility for its users.  
@@ -72,11 +78,15 @@ Always learning, always building! 🚀
 
 ## 📊 Activity
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+<div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=lvctech&show_icons=true&theme=radical&bg_color=00000000" alt="Lara's GitHub stats" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=lvctech&show_icons=true&theme=radical&bg_color=00000000&hide_border=true" alt="Lara's GitHub stats" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvctech&layout=compact&theme=radical&bg_color=00000000" alt="Top Languages" width="36.5%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvctech&layout=compact&theme=radical&bg_color=00000000&hide_border=true" alt="Top Languages" width="36.5%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lvctech&theme=radical&background=00000000&hide_border=true" alt="GitHub Streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lvctech&theme=radical&bg_color=00000000&hide_border=true&color=FF0080&line=FF0080&point=FFFFFF" alt="Contribution Graph"/>
 
 </div>
 
