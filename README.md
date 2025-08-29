@@ -93,11 +93,12 @@ Always learning, always building! 🚀
 
 ---
 
- ## 🐍 My Contribution Snake
-  <br/>
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/lvctech/lvctech/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-  </div>
+## 🐍 My Contribution Snake  
+<br/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/lvctech/lvctech/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+</div>
+
 
 ---
 
