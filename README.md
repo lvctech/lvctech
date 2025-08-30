@@ -13,7 +13,7 @@
 I’m passionate about technology, software engineering, and design with the purpose of improving accessibility for its users.  
 Always learning, always building! 🚀  
 <div align="right">
-   <img src="assets/octocat_lara.png" width="200px" height="200px"/>
+   <img src="assets/octocat_lara.png" width="150px" height="150px"/>
 </div>
 
 ---
