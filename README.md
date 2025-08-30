@@ -1,7 +1,4 @@
-<!-- -->
-<div align="justify">
-   <img src="assets/octocat_lara.png" width="80px" height="80px"/>
-</div>
+<!-- Home Banner -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=23&duration=3500&pause=1000&color=FF6FB5&center=true&vCenter=true&multiline=true&width=800&height=100&lines=✨+Hi!+I'm+Lara+V.+Cordero+Rodr%C3%ADguez+✨;💻+Front+End+Developer+%7C+Web+Designer+%7C+UX%2FUI+Designer+💻;🌸+Creating+impactful+digital+experiences+🌸" alt="Typing SVG"/>
 </h1>
@@ -11,13 +8,16 @@
 </div>
 
 ---
-
+<!-- Introduction Section -->
 ✨ Welcome to my GitHub Profile! ✨  
 I’m passionate about technology, software engineering, and design with the purpose of improving accessibility for its users.  
 Always learning, always building! 🚀  
+<div align="right">
+   <img src="assets/octocat_lara.png" width="100px" height="100px"/>
+</div>
 
 ---
-
+<!-- About me Section -->
 ## 🌸 About Me
 - 🎓 Graduated from the Inter American University of Puerto Rico with a Bachelor's Degree in Computer Science  
 - 💡 Interested in **UX/UI Design, Web Development, Software Engineering, and Front-End Development**  
@@ -25,7 +25,7 @@ Always learning, always building! 🚀
 - 🌱 Always eager to learn new technologies and skills! 
 
 ---
-
+<!-- Technologies and Skills Section -->
 ## ⚡ Technologies & Skills
 <div align="center">
 
@@ -68,6 +68,7 @@ Always learning, always building! 🚀
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
 
+<!-- Soft Skills Section -->
 ### Soft Skills
 💠 Team collaboration · Effective communication · Analytical · Responsible · Adaptive learner · Respectful · Public speaking · Creative · Innovative · Negotiation · Leadership · Reliable · Motivated · Ambitious · Problem-solving · Detail-oriented 💠
 
@@ -79,7 +80,7 @@ Always learning, always building! 🚀
 </div>
 
 ---
-
+<!-- Stats and Activities Section -->
 ## 📊 Activity
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;" align="center">
@@ -95,7 +96,7 @@ Always learning, always building! 🚀
 </div>
 
 ---
-
+<!-- Portfolio Section -->
 ## ✒️ Portfolio
 
 <div align="center">
@@ -108,7 +109,7 @@ Always learning, always building! 🚀
 </div>
 
 ---
-
+<!-- Contribution Snake Section -->
 ## 🐍 My Contribution Snake  
 <br/>
 <div align="center">
@@ -117,7 +118,7 @@ Always learning, always building! 🚀
 
 
 ---
-
+<!-- Contact Section -->
 ## 🌐 Contact Me
 <p align="center">
   <a href="https://www.linkedin.com/in/lara-cordero/" target="_blank">
