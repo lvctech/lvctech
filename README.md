@@ -1,7 +1,9 @@
-<h1 align="center">
+<!-- -->
+<div align="justify">
    <img src="assets/octocat_lara.png" width="80px" height="80px"/>
+</div>
+<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=23&duration=3500&pause=1000&color=FF6FB5&center=true&vCenter=true&multiline=true&width=800&height=100&lines=✨+Hi!+I'm+Lara+V.+Cordero+Rodr%C3%ADguez+✨;💻+Front+End+Developer+%7C+Web+Designer+%7C+UX%2FUI+Designer+💻;🌸+Creating+impactful+digital+experiences+🌸" alt="Typing SVG"/>
-  <img src="assets/octocat_lara.png" width="80px" height="80px"/>
 </h1>
 
 <div align="center">
@@ -99,7 +101,7 @@ Always learning, always building! 🚀
 <div align="center">
   <h3>
     Check out my portfolio!
-    <a href="https://dairadoo.github.io/Portafolio.github-io" target="_blank">
+    <a href="https://lvctech.github.io/My_Portfolio/" target="_blank">
       🔗https://lvctech.github.io/My_Portfolio/🔗
     </a>
   </h3>
