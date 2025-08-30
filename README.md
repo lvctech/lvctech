@@ -9,7 +9,7 @@
 
 ---
 <!-- Introduction Section -->
-✨ Welcome to my GitHub Profile! ✨  
+**✨ Welcome to my GitHub Profile! ✨**<br> 
 I’m passionate about technology, software engineering, and design with the purpose of improving accessibility for its users.  
 Always learning, always building! 🚀  
 <div align="right">
