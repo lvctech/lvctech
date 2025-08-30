@@ -1,5 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=23&duration=3500&pause=1000&color=FF6FB5&center=true&vCenter=true&multiline=true&width=800&height=100&lines=✨+Hi!+I'm+Lara+V.+Cordero+Rodr%C3%ADguez+✨;💻+Front+End+Developer+%7C+Web+Designer+%7C+UX%2FUI+💻;🌸+Creating+impactful+digital+experiences+🌸" alt="Typing SVG" />
+   <img src="assets/octocat_lara.png" width="80px" height="80px"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=23&duration=3500&pause=1000&color=FF6FB5&center=true&vCenter=true&multiline=true&width=800&height=100&lines=✨+Hi!+I'm+Lara+V.+Cordero+Rodr%C3%ADguez+✨;💻+Front+End+Developer+%7C+Web+Designer+%7C+UX%2FUI+Designer+💻;🌸+Creating+impactful+digital+experiences+🌸" alt="Typing SVG"/>
+  <img src="assets/octocat_lara.png" width="80px" height="80px"/>
 </h1>
 
 <div align="center">
@@ -90,6 +92,18 @@ Always learning, always building! 🚀
 
 </div>
 
+---
+
+## ✒️ Portfolio
+
+<div align="center">
+  <h3>
+    Check out my portfolio!
+    <a href="https://dairadoo.github.io/Portafolio.github-io" target="_blank">
+      🔗https://lvctech.github.io/My_Portfolio/🔗
+    </a>
+  </h3>
+</div>
 
 ---
 
@@ -102,15 +116,21 @@ Always learning, always building! 🚀
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Contact Me
 <p align="center">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:YOUR_EMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://YOUR_PORTFOLIO_URL" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+  <a href="https://www.linkedin.com/in/lara-cordero/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="mailto:lcordero.work@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/lvctech">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://www.instagram.com/lvc_sketch/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  </a>
 </p>
