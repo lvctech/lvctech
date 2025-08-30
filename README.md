@@ -1,6 +1,6 @@
 <!-- Home Banner -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=23&duration=3500&pause=1000&color=FF6FB5&center=true&vCenter=true&multiline=true&width=800&height=100&lines=✨+Hi!+I'm+Lara+V.+Cordero+Rodr%C3%ADguez+✨;💻+Front+End+Developer+%7C+Web+Designer+%7C+UX%2FUI+Designer+💻;🌸+Creating+impactful+digital+experiences+🌸" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=23&duration=3500&pause=800&color=FF6FB5&center=true&vCenter=true&multiline=true&width=800&height=100&lines=✨+Hi!+I'm+Lara+V.+Cordero+Rodr%C3%ADguez+✨;💻+Front+End+Developer+%7C+Web+Designer+%7C+UX%2FUI+Designer+💻;🌸+Creating+impactful+digital+experiences+🌸" alt="Typing SVG"/>
 </h1>
 
 <div align="center">
